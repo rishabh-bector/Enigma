@@ -6,7 +6,7 @@ import ciphers as c
 import hilllclimb
 import time
 
-TEXT = raw_input('> ')
+TEXT = input('> ')
 
 
 MUTATION_PROBABILITY = 10
